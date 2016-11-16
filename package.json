@@ -32,7 +32,6 @@
     "uglify-js": "^2.7.4"
   },
   "dependencies": {
-    "babyparse": "^0.4.6",
     "express": "^4.14.0"
   }
 }
